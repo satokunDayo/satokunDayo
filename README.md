@@ -40,8 +40,6 @@
 ">
 Gamespy() 
 {
-Gamespy – Backend Engineer: Designed and implemented backend architecture
-{
 |  Multi-layered Request Control: Managed API limits with FIFO burst queuing (3s TTL)
 |    and burst deduplication to minimize redundant upstream calls.
 |
