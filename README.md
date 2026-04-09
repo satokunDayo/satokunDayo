@@ -1,6 +1,6 @@
 <div style="
   background:#0d1117;
-  padding:24px;
+  padding:25px;
   border-radius:12px;
   border:1px solid #30363d;
   font-family:Segoe UI, sans-serif;
@@ -13,7 +13,7 @@
 <!-- ▼ 小さい枠（プロジェクトカード） -->
 <div style="
   background:#161b22;
-  padding:16px;
+  padding:20px;
   border-radius:8px;
   border-left:4px solid #58a6ff;
   margin-bottom:20px;
