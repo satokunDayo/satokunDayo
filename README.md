@@ -17,14 +17,35 @@
   padding:16px;
   border-radius:8px;
   border-left:4px solid #58a6ff;
-  line-height:1.6;
 ">
 
-• <strong>Multi-layered Request Control</strong>: Managed API limits with FIFO burst queuing (3s TTL) and burst deduplication to minimize redundant upstream calls.<br>
-• <strong>High-Performance Caching</strong>: Dual-layer strategy (3m global cache / 15s burst cache) with input normalization for maximum hit rates and instant responses.<br>
-• <strong>Proactive Abuse Prevention</strong>: Integrated per-IP/User rate limiting with dynamic, escalating auto-ban logic to neutralize bot traffic and abusive usage.<br>
-• <strong>Resilient Data Pipeline</strong>: Reliable upsert-based sync with Steam/CheapShark, featuring prioritized lazy processing for background/non-critical tasks.<br>
-• <strong>Fail-safe Notifications</strong>: Priority-aware price alert system with persistent logging and robust email integration for reliable user delivery.
-</div>
+<pre style="
+  margin:0;
+  white-space:pre;
+  font-family:Consolas, 'Courier New', monospace;
+  font-size:14px;
+  line-height:1.5;
+  color:#c9d1d9;
+">
+Gamespy() {
+    | Multi-layered Request Control:
+    |     Managed API limits with FIFO burst queuing (3s TTL)
+    |     and burst deduplication to minimize redundant calls.
 
+    | High-Performance Caching:
+    |     Dual-layer strategy (3m global cache / 15s burst cache)
+    |     with input normalization.
+
+    | Proactive Abuse Prevention:
+    |     Per-IP/User rate limiting with dynamic auto-ban logic.
+
+    | Resilient Data Pipeline:
+    |     Reliable upsert-based sync with Steam/CheapShark.
+
+    | Fail-safe Notifications:
+    |     Priority-aware price alert system with persistent logging.
+}
+</pre>
+
+</div>
 </div>
