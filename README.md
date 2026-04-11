@@ -8,7 +8,7 @@
 
 <h1 style="margin-top:0;">Hi, I'm Sato 👋</h1>
 
-<h3>Projects</h3>
+<h2>Projects</h2>
 
 <!-- ▼ 小さい枠（プロジェクトカード） -->
 <div style="
@@ -20,7 +20,7 @@
 ">
 
 <p style="margin:0 0 12px 0; font-size:16px;">
-  <strong>Gamespy</strong> – Backend Engineer
+  <h3>1st: Gamespy</strong> – Backend Engineer</h3>
 </p>
 
 <div style="
